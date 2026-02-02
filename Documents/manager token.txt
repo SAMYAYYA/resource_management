@@ -1,0 +1,48 @@
+manager token 
+
+{
+  "username": "manager",
+  "password": "Manager@123"
+}
+
+
+{
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJtYW5hZ2VyIiwidXNlcl9pZCI6MSwiZW1wbG95ZWVfbmFtZSI6IkFkbWluIE1hbmFnZXIiLCJyb2xlX2lkIjoxLCJyb2xlX25hbWUiOiJNYW5hZ2VyIiwiZXhwIjoxNzcwMDQxNTYyfQ.zlyDPRPSJ3sG8zeE21ysdP6Qg8hWKm_nx4lxmi_jefE",
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJtYW5hZ2VyIiwidXNlcl9pZCI6MSwiZW1wbG95ZWVfbmFtZSI6IkFkbWluIE1hbmFnZXIiLCJyb2xlX2lkIjoxLCJyb2xlX25hbWUiOiJNYW5hZ2VyIiwiZXhwIjoxNzcwNjQ0NTYyfQ.uEjax5NcaX5h87R7ymMAHI_lffV0lJxx7BHYxii-DBE"
+}
+
+SAMY AYYA S
+
+{
+  "username": "SAMY",
+  "password": "Samy@1234"
+}
+
+{
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJTQU1ZUyIsInVzZXJfaWQiOjIsImVtcGxveWVlX25hbWUiOiJTQU1ZIEFZWUEgUyIsInJvbGVfaWQiOjMsInJvbGVfbmFtZSI6IkRldmVsb3BlciIsImV4cCI6MTc2OTc5NTEyN30.Epd_5ihej11o0jBQwQqFYxuvSbvhkQAIfhzTqY8R-ZI",
+    "refresh":		 "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJTQU1ZUyIsInVzZXJfaWQiOjIsImVtcGxveWVlX25hbWUiOiJTQU1ZIEFZWUEgUyIsInJvbGVfaWQiOjMsInJvbGVfbmFtZSI6IkRldmVsb3BlciIsImV4cCI6MTc3MDM5ODEyN30.vB-dxydtcRhkyW5jmWRte44wOznol6ebbAamVPvKDjQ"
+}
+
+AYYA S
+
+{
+"username": "AYYAS",
+    "password": "Ayya@1234"}
+    
+    
+Mani S
+
+{
+  "employee_name": "Mani S",
+  "employee_address": "Chennai",
+  "employee_dob": "1998-05-12",
+  "employee_status": true,
+
+  "username": "Mani.s",
+  "password": "Mani@123",
+
+  "role_id": 2,
+
+  "skills": [1, 3, 5]
+}
+
